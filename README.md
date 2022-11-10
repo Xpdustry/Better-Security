@@ -8,3 +8,4 @@ This Mindustry Plugin add an tools for a better security in your server.
 * Anti votekick abuse
 * Anti bad word
 * Anti Grief
+* Use public IP, player UUID, computer MAC for ban system
