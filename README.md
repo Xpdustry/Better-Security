@@ -12,4 +12,5 @@ This Mindustry Plugin add an tools for a better security in your server.
 * Anti NSFW
 * Anti DDoS
 * Anti AFK
+* Public report system (others plugins can get reports)
 * and more...
