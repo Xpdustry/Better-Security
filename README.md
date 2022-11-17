@@ -13,4 +13,5 @@ This Mindustry Plugin add an tools for a better security in your server.
 * Anti DDoS
 * Anti AFK
 * Public report system (others plugins can get reports)
+* Anti map unbound
 * and more...
